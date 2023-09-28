@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  font-size: 12px;
+  display: grid;
+}
+
+div.resumo {
+  display: grid;
+  width: 600px;
+  margin-top: 2em;
+  justify-self: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  text-align: justify;
+}
+
+h1 {
+  padding-bottom: 2em;
+}
+.resumo p {
+  line-height: 1.8em;
+  text-indent: 1.5em;
+}
+
+.cc {
+  display: grid;
+  width: 600px;
+  margin-top: 6em;
+  justify-self: center;
+}
