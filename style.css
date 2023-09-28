@@ -32,5 +32,6 @@ h1 {
   display: grid;
   width: 600px;
   margin-top: 6em;
+  margin-botton: 2em;
   justify-self: center;
 }
